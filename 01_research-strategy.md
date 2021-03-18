@@ -14,7 +14,7 @@ Any such Europeanised patterns of identification which were nurtured in a lifewo
 
 The project is based on data from eight football clubs from four leagues/countries. We seek to find out what extent identities of football fans across Europe are ‘Europeanised’, and what factors influence the Europeanisation supporters’ identities. The analysis will be based on data from eight clubs in four countries. The cases were selected to differ in key conditioning factors, covering three nested contexts of football spectatorship: The country, the league and the club. On the country level, the attitude towards Europe and the European Union in the respective public is potentially influencing the identities of fans. The football leagues differ regarding the internationalisation of their teams measured as the players’ citizenships. The selected clubs differ as to how often they play in European club competitions. The table gives an overview of the cases.
 
-![Case selection](/images/Table_CaseOverview.PNG)
+![Case selection](/images/Table_CaseOverview.png)
 
 The research strategy is a mixed-method approach, combining different methods to assess the same phenomenon through various angles. Three methodological tools will be used for our triangulation concerning (1) qualitative discourse analysis; (2) an online survey; (3) semi-structured/narrative interviews. Finally, structured paired comparisons will be carried out to dig deeper into the role of the influencing factors on our context levels (club, league and country). The picture illustrates the research strategy and the main aims of each step.
 
