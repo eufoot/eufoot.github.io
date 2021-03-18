@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CfP Special Issue Project "The Europeanisation of identities through everyday practices"
+title: CfP Special Issue Project "The Europeanisation of identities through everyday practices"	
 date: 2020-11-05
 tags:
   - project updates
