@@ -13,11 +13,13 @@ Professor of Political Science/International Relations at Rhine-Waal University.
 
 Senior lecturer (Maître de conférences) at the Université de Bourgogne, UFR Langues et communication, Dijon. Former post-doctoral researcher, lecturer and coordinator of the Jean Monnet Chair at the department of political science, Johannes Gutenberg University Mainz. He is also associate researcher with the IS3P Institute, Paris Descartes University. He finished his PhD thesis at the Paris Descartes University and the University of Leipzig (cotutelle de thèse). His main research focuses on (transnational) societal conflicts and their expressions in a constantly changing world. He held positions as research fellow and lecturer at Le Mans University and at Leipzig University of Applied Sciences. In addition, he worked as lecturer at SciencesPo Paris and at Anhalt University of Applied Sciences.
 
-
 ## [Prof. Dr Arne Niemann](https://international.politics.uni-mainz.de/staff/arne-niemann/)
 
 Professor of International Politics and Jean Monnet Professor of European Integration Studies at the department of political science, Johannes Gutenberg University Mainz. He is currently the director of the tri-national, interdisciplinary MA programme in European Studies and co-director of the Jean Monnet Centre of Excellence “Europe in Global Dialogue”. From 2013-2015 he was co-editor of the Sport & EU Review. His research focuses on the European integration process, European Union politics, and particularly the external relations of the EU. Arne Niemann held positions at the universities of Amsterdam, Dresden and Cambridge and was a visiting researcher for example at the European University Institute in Fiesole. He received a BSc (Econ) in International Relations from the London School of Economics & Political Science as well as an MPhil in European Studies and a PhD in International Relations from the University of Cambridge.
 
+## [Dr Friedrich Plank](https://international.politics.uni-mainz.de/staff/friedrich-plank/)
+
+Post-doctoral researcher and lecturer at the department of political science, Johannes Gutenberg University Mainz. Friedric Plank joined the EUFoot team in 2020. He earned his PhD from Johannes Gutenberg University with a dissertation on the effectiveness of the Africa-EU Partnership on Peace and Security, and holds an MA in Conflict Studies from the University of Augsburg and a BA in Political Science from the University of Regensburg. His main research interests include EU Foreign and Security Policy, Peace and Conflict Studies, Comparative Regionalism, and Africa-EU interregionalism. He is co-speaker of the Early Career Group, International Relations Section of the German Political Science Association (GPSA). 
 
 ## [Dr Regina Weber](https://reginaweber.github.io/)
 
