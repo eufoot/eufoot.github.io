@@ -19,7 +19,7 @@ Professor of International Politics and Jean Monnet Professor of European Integr
 
 ## [Dr Friedrich Plank](https://international.politics.uni-mainz.de/staff/friedrich-plank/)
 
-Post-doctoral researcher and lecturer at the department of political science, Johannes Gutenberg University Mainz. Friedric Plank joined the EUFoot team in 2020. He earned his PhD from Johannes Gutenberg University with a dissertation on the effectiveness of the Africa-EU Partnership on Peace and Security, and holds an MA in Conflict Studies from the University of Augsburg and a BA in Political Science from the University of Regensburg. His main research interests include EU Foreign and Security Policy, Peace and Conflict Studies, Comparative Regionalism, and Africa-EU interregionalism. He is co-speaker of the Early Career Group, International Relations Section of the German Political Science Association (GPSA). 
+Post-doctoral researcher and lecturer at the department of political science, Johannes Gutenberg University Mainz. Friedrich Plank joined the EUFoot team in 2020. He earned his PhD from Johannes Gutenberg University with a dissertation on the effectiveness of the Africa-EU Partnership on Peace and Security, and holds an MA in Conflict Studies from the University of Augsburg and a BA in Political Science from the University of Regensburg. His main research interests include EU Foreign and Security Policy, Peace and Conflict Studies, Comparative Regionalism, and Africa-EU interregionalism. He is co-speaker of the Early Career Group, International Relations Section of the German Political Science Association (GPSA). 
 
 ## [Dr Regina Weber](https://reginaweber.github.io/)
 
