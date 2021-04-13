@@ -5,6 +5,7 @@ permalink: /outreach/
 ---
 # Outreach
 
+- Brand, A. (2021), Europäer für 90 Minuten. Verändert Fußball unseren Blick auf Europa? Short Presentation at Lion’s Club Niederrhein, online, 12 Apr.
 - [„Der Profifußball hat sich extrem europäisiert“](https://www.theycallitkleinparis.de/2020/06/02/regina-weber-im-interview-der-profifussball-hat-sich-extrem-europaeisiert/), interview with Regina Weber, theycallitkleinparis Blog, 02 June 2020.
 - Weber, R. (2020), [Sturmfans und Europa](https://www.sturmnetz.at/sturmfans-und-europa/), invited blog article, sturmnetz.at, 28 Feb.
 - [„Uns interessiert welche Bezüge Fans über den Fußballl zu anderen europäischen Ländern entwickeln.“](https://www.tivoli12.at/anpfiff-zum-spiel/hinterfragtinterviews/4417-dr-r-weber-uns-interessiert-welche-bez%C3%BCge-fans-%C3%BCber-den-fu%C3%9Fballl-zu-anderen-europ%C3%A4ischen-l%C3%A4ndern-entwickeln.html), interview with Regina Weber, tivoli12 – das schwarz-grüne Magazin, 08 Feb 2020.
