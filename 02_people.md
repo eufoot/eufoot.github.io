@@ -25,7 +25,7 @@ Post-doctoral researcher and lecturer at the department of political science, Jo
 
 Post-doctoral researcher at Rhine-Waal University. Regina Weber is the coordinator of the EUFoot project. She studied Political Science and History at RWTH Aachen, Charles University in Prague and the University of Potsdam and received her PhD from the University of Duisburg-Essen with a work on the motives and behaviour of young members in ageing catch-all parties. Her research interests cover European identity, political activism, and the behaviour of individuals in changing organisational contexts. Regina is further interested in the development of social science methodology, covering both qualitative and quantitative approaches. She previously held positions as senior advisor at the Hans-Böckler-Stiftung in Düsseldorf and as adjunct lecturer at the University of Duisburg-Essen and RWTH Aachen University.
 
-## [Tobias Heck](https://linkedin.com/in/tobias-heck-917a4511a/)
+## [Tobias Heck, M.Sc.](https://linkedin.com/in/tobias-heck-917a4511a/)
 
 Research associate at Rhine-Waal University. Recently graduated with distinction in Urban and Cultural Geography, M.Sc. at Radboud University Nijmegen, Tobias Heck is a prospective scientist and joined the team in April 2021. His geographical research interests involve gentrification studies, studies on subcultures and socio-spatial transformation processes. Within the field of political science, Tobias is fascinated with studies on identity formation, social cohesion and tourism induced urban conflicts.
 
