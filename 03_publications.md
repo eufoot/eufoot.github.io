@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Papers and Talks"
+title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
+# Papers
 
 - Weber, R. (forthcoming), [Becoming European through Football? The Case of Sturm Graz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3801041), in: Florian Greiner, Peter Pichler, Jan Vermeiren and Anita Ziegerhofer (eds.) Reconsidering Europeanization: Ideas and Practices of (Dis-)Integrating Europe since the 18th Century“, De Gruyter, Oldenbourgh.
 - Weber, R. (2021), [Banal Europeanism? Europeanisation of football and the enhabitation of a Europeanised football fandom](https://www.tandfonline.com/doi/full/10.1080/17430437.2021.1893697). Sport in Society, Special Issue: Sport and Nationalism: Theoretical – Perspectives.
@@ -16,6 +16,7 @@ permalink: /publications/
 
 # Talks 
 
+- Brand, A. (2021), Experiencing the Champions League from the Side Lines, invited keynote speech at the Conference “Beyond the Big Five. The Professionalisation of Football in Europe”, Université de Lausanne (online via Zoom), 06 May.
 - Weber, R. (2021), [Non-elite conceptions of Europe. Europe as reference frame among football fans in England and Austria](https://www.youtube.com/watch?v=kxIbBtn7ZQs), Jean Monnet speaker series Montreal, McGill, 11 Feb.
 - Weber, R. (2020), [A typology of football fans vis-á-vis Europe](/files/Presentation_OnlinePanel_Weber.pdf), contribution to the online panel Europeanisation of identities through everyday practices, Rhine-Waal University, 03 Sep.
 - Weber, R. (2019), Between Brexit and the Champions League?  Conceptions of Europe among football fans, invited talk at [SFB 884 (Political Economy of Reforms) Seminar Series](https://reforms.uni-mannheim.de/ionas/sowi/reforms/events/sfb_seminar_series/previous_talks/), Uni Mannheim, 02 Dec.
