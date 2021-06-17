@@ -15,7 +15,7 @@ permalink: /publications/
 - Brand A., Niemann, A. (2018), [Die Europäisierung des Fußballs: Von der Umsetzung politischer Vorgaben zur Gestaltung europäischer Realitäten](https://www.nomos-elibrary.de/10.5771/9783845243702-167/die-europaeisierung-des-fussballs-von-der-umsetzung-politischer-vorgaben-zur-gestaltung-europaeischer-realitaeten?page=1), in: Jürgen Mittag (ed.), Europäische Sportpolitik: Zugänge – Akteure – Problemfelder, Baden-Baden: Nomos, 167-180.
 
 # Talks 
-
+- Brand, A., Heck, T. (2021), Conceptions of Europe among Football Fans, presentation at the 15th Sport & EU Conference, University of Rijeka (online via Webex), 17 June.
 - Brand, A. (2021), Experiencing the Champions League from the Side Lines, invited keynote speech at the Conference “Beyond the Big Five. The Professionalisation of Football in Europe”, Université de Lausanne (online via Zoom), 06 May.
 - Weber, R. (2021), [Non-elite conceptions of Europe. Europe as reference frame among football fans in England and Austria](https://www.youtube.com/watch?v=kxIbBtn7ZQs), Jean Monnet speaker series Montreal, McGill, 11 Feb.
 - Weber, R. (2020), [A typology of football fans vis-á-vis Europe](/files/Presentation_OnlinePanel_Weber.pdf), contribution to the online panel Europeanisation of identities through everyday practices, Rhine-Waal University, 03 Sep.
