@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We have been nominated for the UACES Luke Foster Prize 	
+title: 'We have been nominated for the UACES Luke Foster Prize'	
 date: 2021-04-19
 tags:
   - project updates

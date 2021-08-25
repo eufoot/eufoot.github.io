@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EUFoot project started
+title: 'EUFoot project started'
 date: 2018-07-18
 tags:
   - project updates
