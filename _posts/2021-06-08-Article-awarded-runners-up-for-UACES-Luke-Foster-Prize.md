@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artcle awarded runners up for UACES Luke Foster Prize	
+title: Article awarded runners up for UACES Luke Foster Prize	
 date: 2021-06-08
 tags:
   - project updates
