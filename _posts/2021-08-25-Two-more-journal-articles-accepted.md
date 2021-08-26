@@ -1,6 +1,6 @@
-	---
+---
 layout: post
-title: 'Two more journal articles accepted'	
+title: 'Two more journal articles accepted'
 date: 2021-08-25
 tags:
   - project updates
