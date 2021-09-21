@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Papers
-- Weber, R., Brand, A., Niemann, A., Koch, F. (2021), A European Mind? Europeanisation of Football Fan Discussions in Online Message Boards. European Journal for Sport and Society.
+- Weber, R., Brand, A., Niemann, A., Koch, F. (2021), [A European Mind? Europeanisation of Football Fan Discussions in Online Message Boards](https://www.tandfonline.com/doi/full/10.1080/16138171.2021.1974220). European Journal for Sport and Society.
 - Weber, R., Brand, A., Koch, F., Niemann, A. (2021), [Cosmopolitans and communitarians: A typology of football fans between national and European influences](https://journals.sagepub.com/doi/full/10.1177/10126902211028147). International Review for the Sociology of Sport.
 - Weber, R. (forthcoming), [Becoming European through Football? The Case of Sturm Graz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3801041), in: Florian Greiner, Peter Pichler, Jan Vermeiren and Anita Ziegerhofer (eds.) Reconsidering Europeanization: Ideas and Practices of (Dis-)Integrating Europe since the 18th Century“, De Gruyter, Oldenbourgh.
 - Weber, R. (2021), [Banal Europeanism? Europeanisation of football and the enhabitation of a Europeanised football fandom](https://www.tandfonline.com/doi/full/10.1080/17430437.2021.1893697). Sport in Society, Special Issue: Sport and Nationalism: Theoretical – Perspectives.
