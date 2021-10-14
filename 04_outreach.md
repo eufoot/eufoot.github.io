@@ -10,6 +10,7 @@ permalink: /outreach/
 - Weber, R. (2020), [Sturmfans und Europa](https://www.sturmnetz.at/sturmfans-und-europa/), invited blog article, sturmnetz.at, 28 Feb.
 - [„Uns interessiert welche Bezüge Fans über den Fußballl zu anderen europäischen Ländern entwickeln.“](https://www.tivoli12.at/anpfiff-zum-spiel/hinterfragtinterviews/4417-dr-r-weber-uns-interessiert-welche-bez%C3%BCge-fans-%C3%BCber-den-fu%C3%9Fballl-zu-anderen-europ%C3%A4ischen-l%C3%A4ndern-entwickeln.html), interview with Regina Weber, tivoli12 – das schwarz-grüne Magazin, 08 Feb 2020.
 - [Fußball, Fans und Forschung](https://epaper.grazer.at/epaper/der-grazer-042020-e964.html#page/52-53), der Grazer, 26 Jan 2020.
+- Koch, F., Brand, A., Niemann, A., Weber, R. (2019), [Becoming "European" through football?](https://ukandeu.ac.uk/becoming-european-through-football/), commentary, UK in a changing Europe, 26 Dec.
 - Brand, A. (2019), Fussball – Mehr als nur ein Spiel? Lecture at the Kids University (Kinder-Uni), Rhine-Waal University, 03 Jul.
 - Brand, A. (2019), Fussball – mehr als nur ein Spiel? Talk and discussion with high schoolers from Willibrord-Gymnasium Emmerich, Faculty of Society and Economics, Rhine-Waal University, 25 Jun.
 - Brand, A., Weber. R. (2019), Europäer für 90 Minuten. Verändert Fußball unseren Blick auf Europa? Dialogue at the Mittwochsakademie, Faculty of Society and Economics, Rhine-Waal University, 19 Jun.
