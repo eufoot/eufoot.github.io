@@ -23,7 +23,7 @@ Post-doctoral researcher and lecturer at the department of political science, Jo
 
 ## [Dr Regina Weber](https://reginaweber.github.io/)
 
-Post-doctoral researcher at Rhine-Waal University. Regina Weber is the coordinator of the EUFoot project. She studied Political Science and History at RWTH Aachen, Charles University in Prague and the University of Potsdam and received her PhD from the University of Duisburg-Essen with a work on the motives and behaviour of young members in ageing catch-all parties. Her research interests cover European identity, political activism, and the behaviour of individuals in changing organisational contexts. Regina is further interested in the development of social science methodology, covering both qualitative and quantitative approaches. She previously held positions as senior advisor at the Hans-Böckler-Stiftung in Düsseldorf and as adjunct lecturer at the University of Duisburg-Essen and RWTH Aachen University.
+Post-doctoral researcher at Rhine-Waal University. Regina Weber was the coordinator of the EUFoot project. She studied Political Science and History at RWTH Aachen, Charles University in Prague and the University of Potsdam and received her PhD from the University of Duisburg-Essen with a work on the motives and behaviour of young members in ageing catch-all parties. Her research interests cover European identity, political activism, and the behaviour of individuals in changing organisational contexts. Regina is further interested in the development of social science methodology, covering both qualitative and quantitative approaches. She previously held positions as senior advisor at the Hans-Böckler-Stiftung in Düsseldorf and as adjunct lecturer at the University of Duisburg-Essen and RWTH Aachen University. She left the EUFoot team in early 2021 to work as researcher at the German Centre for Rail Traffic Research (DZSF) in Bonn.
 
 ## [Tobias Heck, M.Sc.](https://linkedin.com/in/tobias-heck-917a4511a/)
 
@@ -31,7 +31,7 @@ Research associate at Rhine-Waal University. Recently graduated with distinction
 
 # Research Assistance
 
-Maria-Cristina Garcia-Marin (Rhine-Waal University), Dec 2018 – Aug 2019
+Maria-Cristina Garcia-Marin (Rhine-Waal University), Dec 2018 – Aug 2019, Jun - Sep 2021
 
 Tilman Luca Menzel (University of Mainz), Oct 2018 – Jul 2019
 

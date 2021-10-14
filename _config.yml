@@ -22,8 +22,8 @@ title: Research Project EUFoot
 shorttitle: Home # Text for Link to home on all pages
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  The identity effect of Europeanised lifeworlds: Becoming European through football? (EUFoot) is a three year research project (2018-2021), conducted at the University of Mainz and
-  Rhine-Waal University, Kleve, Germany. It is fully sponsored by the German Research Fund (DFG). 
+  EUFoot was a three year research project (2018-2021), conducted at the University of Mainz and
+  Rhine-Waal University, Kleve, Germany and sponsored by the German Research Fund (DFG). 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "eufoot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eu_foot
